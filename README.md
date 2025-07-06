@@ -10,14 +10,10 @@
 
 💬 Ask me about: Java, SQL
 
-📫 How to reach me: (you can add your email or LinkedIn here)
+📫 How to reach me: juardilap@unal.edu.co
 
-🛠️ Tech Stack
-Languages	Tools / Databases
-Java	PostgreSQL
-Python	Git & GitHub
-SQL	
+## 📊 GitHub Stats
 
-📊 GitHub Stats
+![Juan David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juardilap&show_icons=true&theme=radical)
 
 ✨ Thanks for visiting my profile!
