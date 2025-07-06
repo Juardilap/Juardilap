@@ -31,10 +31,4 @@
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juardilap&layout=compact&theme=radical)
-
----
-
 ✨ *Thanks for visiting my profile!*
