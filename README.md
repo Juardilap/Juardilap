@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm Juan David Ardila Pacheco!
+🎓 Systems Engineering student passionate about software development and databases.
+💻 Experienced in Java, with knowledge of Python and SQL (PostgreSQL) for data management.
+🚀 Currently improving my Python skills and eager to learn new technologies.
 
-<!--
-**Juardilap/Juardilap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 About Me
+🔭 I’m currently working on: KoolFileIndexer
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Python and advanced SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Java, SQL
+
+📫 How to reach me: (you can add your email or LinkedIn here)
+
+🛠️ Tech Stack
+Languages	Tools / Databases
+Java	PostgreSQL
+Python	Git & GitHub
+SQL	
+
+📊 GitHub Stats
+
+✨ Thanks for visiting my profile!
