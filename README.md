@@ -3,7 +3,6 @@
 🎓 *Systems Engineering student passionate about software development and databases.*  
 💻 *Experienced in* **Java**, *with knowledge of* **Python** *and* **SQL (PostgreSQL)** *for data management.*  
 🚀 *Currently improving my Python skills and eager to learn new technologies.*
-🫏 New therian looking for similar minded people to have fun and be free
 
 ---
 
@@ -13,7 +12,6 @@
 - 🌱 I’m currently learning: **Python** and **advanced SQL**
 - 💬 Ask me about: **Java**, **SQL**
 - 📫 How to reach me: [juardilap@unal.edu.co](mailto:juardilap@unal.edu.co)
-- 🥸 I am making my dream custom to show the world who i am
 
 ---
 
