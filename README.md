@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Juan David Ardila Pacheco!
+# 👋 Hi there, I'm mamaburra
 
 🎓 *Systems Engineering student passionate about software development and databases.*  
 💻 *Experienced in* **Java**, *with knowledge of* **Python** *and* **SQL (PostgreSQL)** *for data management.*  
